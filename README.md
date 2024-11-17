@@ -1,4 +1,4 @@
-Category Management System
+Category Management System.
 This application is designed to manage hierarchical data, it allows users to create, organize, and display categories and their subcategories in a tree structure. 
 It uses a tree data structure to organize and manipulate categories, where each category can have subcategories, forming a parent-child relationship. 
 This type of application could be used in a variety of real-world scenarios, such as organizing products in an online store, managing files in a directory
